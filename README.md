@@ -1,13 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Firouz Ahmad Sharifi</h1>
-<h3 align="center">A passionate Software Engineer from Afghanistan</h3>
+<h3 align="center">💻 A Creative Software Developer from Afghanistan</h3>
 
-Hello there! 👋 I'm a Software Engineer with a passion for creating seamless and engaging web applications. My journey in the world of coding has been a thrilling adventure, marked by continuous learning and a commitment to delivering high-quality software solutions.
+Hello! 👋 I’m a dedicated Software Developer who loves turning ideas into functional and beautiful digital products. I enjoy building full-stack web applications, exploring new technologies, and solving real-world problems through clean, efficient code.
 
-- 🔭 I’m currently working on **...**
-- 🌱 I’m currently learning **...**
-- 👨‍💻 All of my projects are available at **GitHub Repo**
-- ⚡ Fun fact **CODING**
+🚀 I’m currently working on improving my personal projects and open-source contributions.
+📘 I’m currently learning advanced Java, Python, and modern web development (HTML, CSS, and JavaScript).
+👨‍💻 You can find all my work here on my GitHub repositories
+.
+✨ Fun fact: I believe every great project starts with a small idea and a lot of passion!
 
 <div>
 <a href="https://github.com/FirouzAhmadSharifi" target="_blank">
