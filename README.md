@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Firouz Ahmad Sharifi</h1>
 <h3 align="center">💻 A Creative Software Developer from Afghanistan</h3>
 
-Hello! 👋 I’m a dedicated Software Developer who loves turning ideas into functional and beautiful digital products. I enjoy building full-stack web applications, exploring new technologies, and solving real-world problems through clean, efficient code.
+Hello! 👋 I’m a dedicated Software Developer who loves turning ideas into functional and beautiful digital products. I enjoy building full-stack web applications, exploring new technologies, and solving real-world problems through clean, efficient code. <br>
 
-🚀 I’m currently working on improving my personal projects and open-source contributions.
-📘 I’m currently learning advanced Java, Python, and modern web development (HTML, CSS, and JavaScript).
-👨‍💻 You can find all my work here on my GitHub repositories
+ 🚀 I’m currently working on improving my personal projects and open-source contributions. <br>
+📘 I’m currently learning advanced Java, Python, and modern web development (HTML, CSS, and JavaScript). <br>
+👨‍💻 You can find all my work here on my GitHub repositories <br>
 .
-✨ Fun fact: I believe every great project starts with a small idea and a lot of passion!
+✨ Fun fact: I believe every great project starts with a small idea and a lot of passion! <br>
 
 <div>
 <a href="https://github.com/FirouzAhmadSharifi" target="_blank">
